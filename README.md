@@ -3,6 +3,9 @@
 A web-based frontend application for the **Library Book Management System**, built using **React.js**.  
 This application provides role-based interfaces for **Librarians** and **Readers**, enabling efficient book circulation, member management, rack verification, and intelligent book recommendations powered by RFID-based services.
 
+🌐 **Base URL:**  
+https://library-book-management.dustakar.com
+
 ---
 
 ## 🧩 Overview
@@ -121,14 +124,10 @@ Builds the application for production into the `build/` directory.
 ## 📣 Repository Context
 
 This repository contains **only the frontend application**.  
-For backend services, refer to the companion repository:
-
-```
-library-book-management-api
+For backend services, refer to the companion repository: [library-book-management-api](https://github.com/ranjanabg/library-book-management-api)
 
 ---
 
-```
 ## 📜 License
 
 [MIT License](https://choosealicense.com/licenses/mit/)
