@@ -1,0 +1,8 @@
+export const ADD = "add"
+export const DELETE = "delete"
+export const VIEW = "view"
+export const UPDATE = "update"
+export const CHECKOUT = "checkout"
+export const RETURN = "return"
+export const RENEW = "renew"
+export const STATISTICS = "statistics"

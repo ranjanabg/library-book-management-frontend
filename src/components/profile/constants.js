@@ -1,0 +1,3 @@
+export const DETAILS = "PROFILE DETAILS"
+export const PAY_DUES = "PAY DUES"
+export const CANCEL_MEMBERSHIP = "CANCEL MEMBERSHIP"
