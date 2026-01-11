@@ -1,4 +1,7 @@
 # Library Book Management – Frontend
+![React](https://img.shields.io/badge/React-18-61DAFB)
+![Build](https://github.com/ranjanabg/HouseFinder/actions/workflows/ci.yml/badge.svg)
+
 
 A web-based frontend application for the **Library Book Management System**, built using **React.js**.  
 This application provides role-based interfaces for **Librarians** and **Readers**, enabling efficient book circulation, member management, rack verification, and intelligent book recommendations powered by RFID-based services.
